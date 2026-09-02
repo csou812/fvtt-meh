@@ -9,9 +9,9 @@
   "flags": {
     "canUpload": true
   },
-  "url": "https://github.com/csou812/fvtt-meh/",
+  "url": "https://github.com",
   "manifest": "https://githubusercontent.com",
-  "download": "https://github.com",
+  "download": "https://github.com/archive/refs/heads/main.zip",
   "packs": [
     {
       "name": "fvtt-meh",
