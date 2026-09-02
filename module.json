@@ -9,16 +9,17 @@
   "flags": {
     "canUpload": true
   },
-  "url": "https://github.com/csou812/fvtt-meh",
+  "url": "https://github.com",
   "manifest": "https://githubusercontent.com",
-  "download": "https://github.com",
+  "download": "https://github.com/archive/refs/heads/main.zip",
   "packs": [
     {
-      "name": "sharedcontent",
+      "name": "fvtt-meh",
       "label": "ourtavern",
-      "path": "packs/sharedcontent",
+      "path": "packs/fvtt-meh",
       "type": "Scene"
     }
   ],
   "description": "Shared campaign scenes and assets."
 }
+
