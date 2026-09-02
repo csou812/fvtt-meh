@@ -1,0 +1,32 @@
+{
+  "id": "sharedcontent",
+  "title": "SharedContent",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "url": "https://github.com/csou812/fvtt-meh",
+  "manifest": "meh",
+  "download": "meh",
+
+
+  "packs": [
+    {
+      "name": "sharedcontent",
+      "label": "ourtavern",
+      "path": "packs/sharedcontent",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
