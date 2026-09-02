@@ -10,23 +10,15 @@
     "canUpload": true
   },
   "url": "https://github.com/csou812/fvtt-meh",
-  "manifest": "meh",
-  "download": "meh",
-
-
+  "manifest": "https://githubusercontent.com",
+  "download": "https://github.com",
   "packs": [
     {
       "name": "sharedcontent",
       "label": "ourtavern",
       "path": "packs/sharedcontent",
-      "type": "Scene",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      "type": "Scene"
     }
   ],
-  "description": ""
+  "description": "Shared campaign scenes and assets."
 }
